@@ -1,5 +1,5 @@
 # My-portfolio-Website
-this is my first project on GitHub.
+This is my first project on GitHub.
 
 https://sage-kashata-c0727d.netlify.app/
 *This is my portfolio Website
